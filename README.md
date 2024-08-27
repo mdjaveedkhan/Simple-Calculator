@@ -1,2 +1,2 @@
-# CODSOFT-Task-3
+# Simple Calculator
 Calculator
